@@ -1,0 +1,78 @@
+
+body {
+
+    background-color:#73d0e2;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+
+h1   {
+     line-height: 1.3em; color: #E44547; 
+     font-family: "Times New Roman", Times, serif;
+     font-size: 20px; 
+     text-align: center; 
+     direction: ltr;
+     margin-top: 0;
+     margin-right: 0;
+     margin-bottom: 10px; 
+     margin-left: 0; 
+     padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;
+     background-color: #FFFAF0;
+     
+   }
+
+h2 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 15px;
+    color: #04569e;
+
+}
+    
+p    {
+
+    line-height: 1.5em; 
+    color: #3A352A; 
+   font-family: "Times New Roman", Times, serif;
+   font-weight: bold;
+   font-size: 15px;
+    text-align: left; 
+    direction: ltr; 
+    unicode-bidi: embed; 
+    vertical-align: baseline; 
+    margin-top: 0; margin-right: 0; margin-bottom: 1.3em; margin-left: 0; 
+    padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;
+    align:center;
+    font-weight: bold;
+    vertical-align: baseline;
+
+}
+
+p.normal {
+
+    color: #E44547; 
+    font-family: "Times New Roman", Times, serif; 
+    font-size: 15px; 
+ }
+
+ol.points {
+    color:#3A352A;
+     font-family: "Times New Roman", Times, serif;
+    font-size: 15px; 
+
+}
+
+address {
+    color:#04449e;
+    font-weight: bold;
+    font-size: 15px;
+    font-style: italic;
+}
+
+
+.footer{
+ padding-top: 30px;
+ padding-bottom: 30px;
+ text-align: center;
+}
