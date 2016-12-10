@@ -36,7 +36,13 @@ body {
 
 
 
+table {
+    border: 40px solid #9933cc;
+}
 
+td{
+    padding: 10px;
+}
 
 
 h1   {
