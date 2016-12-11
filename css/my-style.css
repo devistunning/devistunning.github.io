@@ -18,6 +18,7 @@ body {
     background-color:#33b5e5;
     margin-top: 30px;
     margin-bottom: 30px;
+    color:#000;
 }
 
 /* For desktop: */
@@ -46,11 +47,11 @@ td{
 
 
 h1   {
-     line-height: 1.3em; color: #E44547; 
+     line-height: 1.3em; color: #c11c1e;
      font-family: "Times New Roman", Times, serif;
      font-size: 20px; 
      text-align: center; 
-     direction: ltr;
+     font-weight: 900;
      margin-top: 0;
      margin-right: 0;
      margin-bottom: 10px; 
@@ -62,49 +63,47 @@ h1   {
 
 h2 {
     font-family: "Times New Roman", Times, serif;
-    font-size: 15px;
-    color: #04569e;
-
+     font-weight: 900;
+    font-size: 18px;
+    color: #00008B;
 }
     
 p    {
 
-    line-height: 1.5em; 
-    color: #3A352A; 
+    color: #000; 
    font-family: "Times New Roman", Times, serif;
    font-weight: bold;
-   font-size: 15px;
-    text-align: left; 
-    direction: ltr; 
-    unicode-bidi: embed; 
-    vertical-align: baseline; 
-    margin-top: 0; margin-right: 0; margin-bottom: 1.3em; margin-left: 0; 
-    padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;
-    align:center;
+   font-size: 16px;
+    text-align: left;     
     font-weight: bold;
-    vertical-align: baseline;
+    
 
 }
 
 p.normal {
 
-    color: #E44547; 
-    font-family: "Times New Roman", Times, serif; 
-    font-size: 15px; 
+    color: #c11c1e;
+    font-family: hel Times, serif; 
+    font-size: 18px; 
  }
 
 ol.points {
-    color:#3A352A;
-     font-family: "Times New Roman", Times, serif;
-    font-size: 15px; 
+    color:#000;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px; 
+    font-weight: normal;
 
 }
 
 address {
-    color:#04449e;
+    color: #00008B;
     font-weight: bold;
-    font-size: 15px;
+    font-size: 16px;
     font-style: italic;
+}
+
+a {
+    color: #9933cc;
 }
 
 
@@ -113,6 +112,7 @@ address {
  padding-bottom: 30px;
  text-align: center;
  background-color:#9e0005;
+ color:#25383C;
  
 }
 
