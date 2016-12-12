@@ -46,6 +46,18 @@ td{
 }
 
 
+#example1 {
+    
+    padding: 50px;
+    margin-top: 5px;
+
+    
+    background: url('/images/accounting.jpg');
+    background-size: 100%  100%;
+    
+    background-repeat: no-repeat;
+}
+
 h1   {
      line-height: 1.3em; color: #c11c1e;
      font-family: "Times New Roman", Times, serif;
@@ -62,10 +74,12 @@ h1   {
    }
 
 h2 {
+
     font-family: "Times New Roman", Times, serif;
      font-weight: 900;
     font-size: 18px;
     color: #00008B;
+    margin-top: 0;
 }
     
 p    {
