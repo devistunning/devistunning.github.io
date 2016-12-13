@@ -47,14 +47,14 @@ td{
 
 
 #example1 {
-    
+    width: 590px;
     padding: 50px;
     margin-top: 5px;
 
     
     background: url('/images/accounting.jpg');
-    width: 590px; 
     
+
     background-size: 100%  100%;
     
     background-repeat: no-repeat;
