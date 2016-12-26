@@ -111,6 +111,11 @@ ol.points {
 
 }
 
+ul {
+
+    font-size: 16px;
+}
+
 address {
     color: #00008B;
     font-weight: bold;
